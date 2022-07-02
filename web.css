@@ -119,12 +119,12 @@ html {
 }
 
 #box1 {
-  background-image:"bg1.jpg";
+  background: url(bg1.jpg);
   opacity: .9;
 }
 
 #box2 {
-  background-image:"bg2.jpg";
+  background: url(bg2.jpg);
   opacity: .9;
 }
 
