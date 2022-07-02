@@ -119,7 +119,7 @@ html {
 }
 
 #box1 {
-  background: url(bg1.jpg);
+  background-image:"bg1.jpg";
   opacity: .9;
 }
 
