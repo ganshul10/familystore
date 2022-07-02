@@ -68,7 +68,7 @@ html {
   height: 550px;
   justify-content: center;
   align-items: center;
-  background:("logo5.jpg") no-repeat center center/cover;
+  background_image:('logo5.jpg') no-repeat center center/cover;
   z-index: 1;
 }
 
@@ -119,17 +119,17 @@ html {
 }
 
 #box1 {
-  background: url("bg1.jpg");
+  background: url('bg1.jpg');
   opacity: .9;
 }
 
 #box2 {
-  background: url("bg2.jpg");
+  background: url('bg2.jpg');
   opacity: .9;
 }
 
 #box3 {
-  background: url("bg3.jpg");
+  background: url('bg3.jpg');
   opacity: .9;
 }
 
