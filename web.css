@@ -124,7 +124,7 @@ html {
 }
 
 #box2 {
-  background: url(bg2.jpg);
+  background-image:"bg2.jpg";
   opacity: .9;
 }
 
