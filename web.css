@@ -68,7 +68,7 @@ html {
   height: 550px;
   justify-content: center;
   align-items: center;
-  background:('logo5.jpg');
+  background: url('logo5.jpg');
   background_repeat: no-repeat;
   background-position: center;
   
