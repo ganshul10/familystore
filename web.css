@@ -68,7 +68,10 @@ html {
   height: 550px;
   justify-content: center;
   align-items: center;
-  background:('logo5.jpg') no-repeat center center/cover;
+  background:('logo5.jpg');
+  background_repeat: no-repeat;
+  background-position: center;
+  
   z-index: 1;
 }
 
